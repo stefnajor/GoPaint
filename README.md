@@ -1,16 +1,16 @@
 # GoPaint
-A simple Paint clone made in Python using OpenCV
+A simple Python Paint clone made entirely with OpenCV and NumPy
 
 ## Features:
 - Freehand Brush
 - Bucket Fill
-- Shape Tools (Rectangle, Ellipse, Line)
-- Eyedropper Color Picking Tool
-- Undo to last state button
+- Shapes (Rectangle, Ellipse, Line)
+- Eyedropper for Color Picking
+- Undo (Currently only saves the single previous state)
 - Clear Canvas button
 - Save Image
 - Full RGB color sliders
-- Scroll Wheel to adjust brush size
+- Scroll Wheel to adjust brush size (1-99px)
 
 ## Planned Updates:
 - Increased buffer of previous states for Undo
